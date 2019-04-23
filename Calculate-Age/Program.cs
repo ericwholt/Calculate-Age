@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Calculate_Age
 {
@@ -35,6 +31,8 @@ namespace Calculate_Age
 
             //get total days from span and cast into int
             int totalDays = (int)span.TotalDays;
+            var totalSeconds = span.TotalSeconds;
+            var totalMinutes = span.TotalMinutes;
 
             // Get age in years
             int ageInYears = totalDays / 365; 
@@ -48,6 +46,9 @@ namespace Calculate_Age
 
             // display our age.
             Console.WriteLine($"Age: {ageInYears}yrs {ageDaysAfterYears}days");
+            Console.WriteLine($"Age in minutes: {totalMinutes}");
+            Console.WriteLine($"Age in seconds: {totalSeconds}");
+
         }
 
         //Calculate the number of leap years between the start and end year
