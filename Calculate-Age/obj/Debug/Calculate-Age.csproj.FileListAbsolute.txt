@@ -1,0 +1,7 @@
+C:\Users\fatmo\Grand Circus\Labs\Bonus\2\Calculate-Age\Calculate-Age\bin\Debug\Calculate-Age.exe.config
+C:\Users\fatmo\Grand Circus\Labs\Bonus\2\Calculate-Age\Calculate-Age\bin\Debug\Calculate-Age.exe
+C:\Users\fatmo\Grand Circus\Labs\Bonus\2\Calculate-Age\Calculate-Age\bin\Debug\Calculate-Age.pdb
+C:\Users\fatmo\Grand Circus\Labs\Bonus\2\Calculate-Age\Calculate-Age\obj\Debug\Calculate-Age.csprojAssemblyReference.cache
+C:\Users\fatmo\Grand Circus\Labs\Bonus\2\Calculate-Age\Calculate-Age\obj\Debug\Calculate-Age.csproj.CoreCompileInputs.cache
+C:\Users\fatmo\Grand Circus\Labs\Bonus\2\Calculate-Age\Calculate-Age\obj\Debug\Calculate-Age.exe
+C:\Users\fatmo\Grand Circus\Labs\Bonus\2\Calculate-Age\Calculate-Age\obj\Debug\Calculate-Age.pdb
